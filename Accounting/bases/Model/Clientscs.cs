@@ -7,7 +7,7 @@ using System.Net.Mail;
 
 namespace Accounting.bases.Model
 {
-    internal class Clientscs
+    public class Clientscs
     {
         public string Name { get; set; }
         public string Adress { get; set; }
